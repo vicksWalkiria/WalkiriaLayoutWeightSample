@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WalkiriaWeightSample</string>
+    <string name="hello_top">Hello Top</string>
+    <string name="hello_top_left">Hello Top Left</string>
+    <string name="hello_bottom_left">Hello Bottom Left</string>
+    <string name="hello_top_right">Hello Top Right</string>
+</resources>
