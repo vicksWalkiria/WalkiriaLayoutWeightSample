@@ -4,4 +4,5 @@
     <string name="hello_top_left">Hello Top Left</string>
     <string name="hello_bottom_left">Hello Bottom Left</string>
     <string name="hello_top_right">Hello Top Right</string>
+    <string name="hello_bottom_right">Hello Bottom Right</string>
 </resources>

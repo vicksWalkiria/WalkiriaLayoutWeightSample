@@ -117,7 +117,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
-                    android:text="@string/hello_bottom_left"
+                    android:text="@string/hello_bottom_right"
                     android:textColor="#ffffff"></TextView>
 
             </RelativeLayout>
